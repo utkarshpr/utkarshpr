@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utkarshpr
 - 👀 I’m interested in ... development
-- 🌱 I’m currently learning ...java development
-- 💞️ I’m looking to collaborate on ...web Development and soon on java development
+- 🌱 I’m currently learning.... everything.....
+- 💞️ I’m looking to collaborate on ...web Development and  java development
 - 📫 How to reach me ...https://www.linkedin.com/in/utkarsh-pravind-510736175/
 
 <!---
